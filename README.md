@@ -17,5 +17,5 @@ conda install -c conda-forge magicgui pyqt
 
 ### To run notebook examples
 ```bash
-pip install jupyter imageio tqdm
+pip install jupyter imageio tqdm matplotlib numpy napari cellfinder-napari
 ```
